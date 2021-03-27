@@ -1,0 +1,15 @@
+cd
+pwd
+ls
+cp
+mv -mv "filename" "ToDestinationFolder"
+rm
+echo
+cat
+less
+grep
+mkdir
+touch
+chmod
+man + help
+man + 'linux command'
