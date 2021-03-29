@@ -4,7 +4,7 @@ ls
 cp
 mv -mv "filename" "ToDestinationFolder"
 rm -[rm -r 'folder_name'](to remove or delete a folder)
-echo
+echo -[echo D*]
 cat
 less
 grep
