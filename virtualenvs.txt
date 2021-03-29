@@ -1,2 +1,2 @@
-1. Activating a virtual environment:Navigate to the folder that has venv, then type "source venv/bin/active" where venv is the folder that contains the virtual environment packages/programs
-2. To Deactivate a virtual environment, type "deactivate"
+ Activating a virtual environment:Navigate to the folder that has venv, then type "source venv/bin/active" where venv is the folder that contains the virtual environment packages/programs
+ To Deactivate a virtual environment, type "deactivate"
