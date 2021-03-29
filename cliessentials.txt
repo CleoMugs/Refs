@@ -3,7 +3,7 @@ pwd
 ls
 cp
 mv -mv "filename" "ToDestinationFolder"
-rm
+rm -[rm -r 'folder_name'](to remove or delete a folder)
 echo
 cat
 less
